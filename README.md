@@ -14,4 +14,6 @@ The testing algorithm is implemented in the auto_sim_test.m Matlab function. See
 The automatic simulation-based testing algorithm is described in the following paper (Add link when published).
 
 # Support/Contribution
-Don't hesitate to contact me, [Tobias Rye Torben](https://www.ntnu.edu/employees/tobias.torben), for questions. Contributions are welcome as suggestions on pull requests.
+Don't hesitate to contact me, [Tobias Rye Torben](https://www.ntnu.edu/employees/tobias.torben), for questions. Contributions are welcome as suggestions or pull requests.
+
+© Norwegian University of Science and Technologu (NTNU), Department of Marine Technology. The software is developed under the ORCAS Project by Tobias Rye Torben
