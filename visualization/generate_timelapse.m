@@ -1,3 +1,8 @@
+%© Norwegian University of Science and Technology (NTNU),
+%Department of Marine Technology.
+%The software is developed under the ORCAS Project.
+%Author: Tobias Rye Torben.
+
 function generate_timelapse(datapoint, rho_coll, rho_colreg, rho_mission)
 L = 20;B=6;
 h = figure();

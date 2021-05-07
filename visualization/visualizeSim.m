@@ -1,3 +1,8 @@
+%© Norwegian University of Science and Technology (NTNU),
+%Department of Marine Technology.
+%The software is developed under the ORCAS Project.
+%Author: Tobias Rye Torben.
+
 function visualizeSim(datapoint, rho_coll, rho_colreg, rho_mission, rtf, north_lim, east_lim, file)
 L = 20;B=6;
 h = figure();

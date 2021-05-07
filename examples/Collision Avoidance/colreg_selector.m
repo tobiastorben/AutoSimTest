@@ -1,3 +1,7 @@
+%© Norwegian University of Science and Technology (NTNU),
+%Department of Marine Technology.
+%The software is developed under the ORCAS Project.
+%Author: Tobias Rye Torben.
 function [headon, overtaking, overtaken, standon, giveway] = colreg_selector(cpa, tcpa, eta_os, eta_ts)
     cpa_conf = 100.0;
     tcpa_conf = 100.0;

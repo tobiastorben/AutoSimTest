@@ -1,3 +1,7 @@
+%© Norwegian University of Science and Technology (NTNU),
+%Department of Marine Technology.
+%The software is developed under the ORCAS Project.
+%Author: Tobias Rye Torben.
 function [cpa, tcpa] = cpa_calculations(p1, Xi1, U1, p2, Xi2, U2)
 
 n = length(Xi1);

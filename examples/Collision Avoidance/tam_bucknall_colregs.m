@@ -1,3 +1,8 @@
+%© Norwegian University of Science and Technology (NTNU),
+%Department of Marine Technology.
+%The software is developed under the ORCAS Project.
+%Author: Tobias Rye Torben.
+
 function encounter_type = tam_bucknall_colregs(eta_os, eta_ts)
     r = eta_ts(1:2) - eta_os(1:2);
     rel_bearing = rad2deg(wrapTo2Pi(atan2(r(2), r(1))-eta_os(3)));

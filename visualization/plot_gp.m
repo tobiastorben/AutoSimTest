@@ -1,3 +1,8 @@
+%© Norwegian University of Science and Technology (NTNU),
+%Department of Marine Technology.
+%The software is developed under the ORCAS Project.
+%Author: Tobias Rye Torben.
+
 function plot_gp(parameters, rho_mean, rho_var, rho_obs, P, P_obs, fig_handle)
     figure(fig_handle);
     if length(parameters) == 1%1D Plot

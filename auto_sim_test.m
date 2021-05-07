@@ -1,3 +1,8 @@
+%© Norwegian University of Science and Technology (NTNU),
+%Department of Marine Technology.
+%The software is developed under the ORCAS Project.
+%Author: Tobias Rye Torben
+
 function [retval, rho_mean, rho_var, rho_obs, P, P_obs, fig_handle] = auto_sim_test(sim_fun, parameters, hypers, stl_formula, predicates, plot_file)
 
 
